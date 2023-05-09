@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe França</h1>
-<h3 align="center">Web developer - Front-end🌟.</h3>
+<h3 align="center">I'm a front-end developer with an emphasis on react.js.</h3>
 
 <br>
 
