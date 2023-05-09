@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-<h3 align="left">Connect with me: <a href:"https://www.linkedin.com/in/felipe-frança-22542a254">Click here</a></h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/felipe-frança-22542a254">Click here</a></h3>
 <p align="left">
 </p>
 
