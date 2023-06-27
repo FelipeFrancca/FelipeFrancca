@@ -14,8 +14,8 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-    <h3>JavaScript, React.js, Typescript</h3>
-    <h4>HTML5, CSS</h4>
+    <h3>JavaScript, React.js, Typescript, SpringTool 4, Postman, MySQL</h3>
+    <h4>HTML5, CSS, Photoshop, Davinci Resolve, </h4>
     <h3></h3>
 
 <br>
