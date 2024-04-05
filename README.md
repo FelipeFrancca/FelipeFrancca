@@ -5,7 +5,7 @@ EN: I'm a web developer with almost 2 years in the job market as Front-End and D
 I seek constant evolution because I believe that in the technology area we should never stop looking for improvements, and I am always looking for experiences in the job market.
 I currently identify myself as a Front-End developer focusing on user experience (UX and UI).
 
-PT: Sou desenvolvedor web com quase 2 anos no mercado de trabalho como Front-End e Data base.
+PT: Sou desenvolvedor web com quase 2 anos no mercado de trabalho com Front-End e Data base.
 Busco evolução constante pois acredito que na área de tecnologia jamais devemos parar de buscar aprimoramentos, e estou sempre em busca de experiencias no mercado de trabalho.
 Atualmente me identifico como desenvolvedor Front-End com foco na experiencia do usuário (UX e UI).
 
